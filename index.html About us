@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>About Us - Festive Fizz Decor</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <h1>Festive Fizz Decor</h1>
+    <nav>
+      <a href="index.html">Home</a>
+      <a href="about.html">About Us</a>
+      <a href="services.html">Services</a>
+      <a href="contact.html">Contact</a>
+    </nav>
+  </header>
+  <main>
+    <h2>About Us</h2>
+    <p>Festive Fizz Decor is a creative event styling business based in Bothe-Bothe, specializing in custom decorations for birthdays, weddings, and corporate events. Our passion is to transform spaces into magical experiences.</p>
+  </main>
+  <footer>
+    <p>&copy; 2025 Festive Fizz Decor</p>
+  </footer>
+</body>
+</html>
