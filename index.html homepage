@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Festive Fizz Decor</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <h1>Festive Fizz Decor</h1>
+    <nav>
+      <a href="index.html">Home</a>
+      <a href="about.html">About Us</a>
+      <a href="services.html">Services</a>
+      <a href="contact.html">Contact</a>
+    </nav>
+  </header>
+  <main>
+    <h2>Welcome to Festive Fizz Decor</h2>
+    <p>We bring your events to life with creativity and vibrant decor. Let’s make your celebration unforgettable!</p>
+  </main>
+  <footer>
+    <p>&copy; 2025 Festive Fizz Decor</p>
+  </footer>
+</body>
+</html>
